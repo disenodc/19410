@@ -1,0 +1,23 @@
+# Esto es un comentario
+#Es una lista de lo que quiero ignorar
+
+# Ignorar un archivo
+
+.DS_Store
+
+robots.txt
+
+nose.json
+
+nose.html
+
+#ignorar un grupo de archivos
+
+*.jpg
+
+#ignorar archivo dentro de una subcarpeta
+
+nombredecarpeta/nombredearchivo
+
+#ignorar carpeta
+nombredecarpeta/
